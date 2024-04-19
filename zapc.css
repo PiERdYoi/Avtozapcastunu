@@ -1,0 +1,24 @@
+body{
+    background-color: brown;
+    color: aliceblue;
+}
+p{
+    
+
+}
+.evropaz{
+    background-color: rgb(43,43,43);
+    width: 500px;
+    height:300px ;
+}
+.usaz{
+    width: 500px;
+    height:300px ;
+}
+.yaponz{
+    width: 500px;
+    height:300px ;
+}
+.p1{ 
+    font-size: 50px;
+}

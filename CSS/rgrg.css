@@ -48,15 +48,19 @@ body {
     width: 100%;
 }
 
-.child-div-text-cont {
+.child-div-cont {
     /* height: ; */
-    width: 100%;
-    background-color: #5d5d5d;
+    width: 45%;
+    display: inline-block;
+    
 }
 
 h3 {
     font-size: 26px;
-    background: linear-gradient(to left, #5d5d5d, #ddd);
+  
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+.img{
+    width: 45%;
 }

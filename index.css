@@ -1,5 +1,5 @@
 .came-pershe{
-background-color: aqua;
+
 display: inline-block;
 width: 100%;
 }
@@ -10,4 +10,14 @@ width: 100%;
 }
 body{
     background-color: brown;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+.p223{
+    font-size: 20px;
+    color: aliceblue;
+    text-decoration: none;
 }

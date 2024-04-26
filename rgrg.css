@@ -28,18 +28,13 @@ body {
 
 }
 
-.child-div-cont {
-    /* width: 49.7%; */
-    height: 100%;
-}
-
-.child-div-cont {
-    width: 30%;
-}
-
 .child-div {
     width: 100%;
-    height: 300px;
+}
+
+.child-div-cont{
+    width: 47%;
+    min-height: 100vh;
 }
 
 /* .child-div-text{
@@ -50,12 +45,13 @@ body {
 } */
 
 .child-img {
-    height: 100%;
+    width: 100%;
 }
 
 .child-div-text-cont {
     /* height: ; */
     width: 100%;
+    background-color: #5d5d5d;
 }
 
 h3 {

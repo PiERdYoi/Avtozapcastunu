@@ -1,33 +1,55 @@
-.came-pershe{
+.came-pershe {
 
-display: inline-block;
-width: 100%;
+    display: inline-block;
+    width: 100%;
 }
-.logo{
+
+.logo {
     height: 100px;
     width: 120px;
     margin: 20px;
 
 }
-body{
+
+body {
     background-color: brown;
 }
-a{
+
+a {
     color: aliceblue;
     text-decoration: none;
     font-size: 20px;
 }
-.p223{
+
+.p223 {
     font-size: 20px;
     color: aliceblue;
     text-decoration: none;
 }
-header{
+
+header {
     background-color: rgba(0, 0, 0, 0.2);
 }
-.div-posulan{
-     padding: 25px;}
-     .p222{
-        font-size: 20px;
-     }
-     
+
+.div-posulan {
+    padding: 25px;
+}
+
+.p222 {
+    font-size: 20px;
+}
+
+.p1478 {
+    font-size: 90px;
+    color: aliceblue;
+}
+
+.imgspar {
+    height: 350px;
+    width: 350px;
+}
+
+
+.denus-pos {
+    color: brown;
+}
